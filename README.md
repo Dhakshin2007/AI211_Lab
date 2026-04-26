@@ -38,6 +38,26 @@ Some of the key Machine Learning concepts covered across the labs include:
 - Sample Complexity and VC Dimension  
 - Realizable vs Agnostic Learning  
 - Effect of Noise on Learning  
+- Data Visualization and Exploratory Analysis  
+- Class Imbalance and Dataset Distribution  
+- Gradient Descent Variants (BGD, SGD, Mini-batch)  
+- Learning Rate Tuning and Its Effects  
+- Training vs Validation Loss Analysis  
+- Image Preprocessing Techniques  
+- Edge Detection using Canny Algorithm  
+- Convolutional Neural Networks (CNN)  
+- Batch Normalization and Regularization  
+- Pooling Techniques (Max Pooling, Global Average Pooling)  
+- Dropout and Overfitting Prevention  
+- Optimizers (SGD, RMSprop, Adam, Adagrad)  
+- Hyperparameter Tuning (Learning Rate, Depth, Dropout)  
+- Model Architecture Design and Evaluation  
+- Recurrent Neural Networks (RNN)  
+- Vanishing and Exploding Gradient Problems  
+- Effect of Hidden Layer Size in RNN  
+- Effect of Sequence Length in RNN  
+- Model Stability and Convergence Behavior  
+- Training Dynamics and Loss Analysis  
 
 ---
 
