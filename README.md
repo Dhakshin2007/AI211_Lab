@@ -67,6 +67,12 @@ Some of the key Machine Learning concepts covered across the labs include:
 - NumPy  
 - Matplotlib  
 - Pandas (where required)  
+- TensorFlow / Keras  
+- Sequential API for Model Building  
+- OpenCV (for Image Processing and Edge Detection)  
+- Jupyter Notebook (for experimentation and visualization)  
+
+> **Note:** Deep learning libraries like TensorFlow/Keras are used only for neural network implementation, while core ML concepts and preprocessing steps are implemented manually wherever required.
 
 > **Note:** Direct use of high-level ML libraries (such as `scikit-learn` for regression models) is avoided, as per lab instructions.
 
